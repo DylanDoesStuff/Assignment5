@@ -9,6 +9,6 @@
 1. list item 1
 2. list item 2
 
-!(alt text)[https://myoctocat.com/assets/images/base-octocat.svg]
+![alt text](https://myoctocat.com/assets/images/base-octocat.svg)
 
-(text1)[#new-line]
+[text1](#new-line)
